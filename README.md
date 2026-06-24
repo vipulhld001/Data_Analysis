@@ -1,2 +1,2 @@
-# Data_Analysis
-To Learn Python and Data Analytics using Jupyter
+# Data Analysis
+To learn Python and Data Analytics using Jupyter
